@@ -3,6 +3,12 @@ A repo highlights models that are good for modeling real-world data
 
 
 # Paper References with the implementation(s)
+- **FEATHER**
+  - Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models
+  - [[Paper]](https://arxiv.org/abs/2005.07959)
+  - [[Python]](https://github.com/benedekrozemberczki/FEATHER)
+  - [[Python KarateClub]](https://github.com/benedekrozemberczki/karateclub)
+
 - InterpretML: A Unified Framework for Machine Learning Interpretability
   - [Paper](https://arxiv.org/pdf/1909.09223.pdf)
   - [Python](https://github.com/interpretml/interpret)
