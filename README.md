@@ -12,3 +12,8 @@ Team: Microsoft
 [Paper](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)  
 [Python](https://github.com/slundberg/shap)  
 Team: University of Washington  
+
+* AI Explainability 360 toolkit
+[Paper](https://arxiv.org/pdf/1909.03012.pdf)  
+[Python](https://github.com/IBM/AIX360/)  
+Team: IBM  
