@@ -8,7 +8,7 @@ A repo highlights models that are good for modeling real-world data
   - [Python](https://github.com/interpretml/interpret)
   - Team: Microsoft
   - Year: 2019
-  - This framework includes a new interpretability algorithm – theExplainable Boosting Machine (EBM). It is an additive model.
+  - This framework includes a new interpretability algorithm – the Explainable Boosting Machine (EBM), which is a glassbox model and an additive model.
 
 - SHAP: SHapley Additive exPlanations
   - [Paper](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
